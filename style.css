@@ -1,0 +1,18 @@
+.bg-d{
+    background-color: #ffe17c;
+}
+
+.bg-l{
+    background-color: #FFF8E1;
+}
+
+.w-30{
+    width: 23%;
+}
+
+.back{
+    width: 25px;
+    height: 25px;
+    border-radius: 50% ;
+    background-color: #f8eabd;
+}
